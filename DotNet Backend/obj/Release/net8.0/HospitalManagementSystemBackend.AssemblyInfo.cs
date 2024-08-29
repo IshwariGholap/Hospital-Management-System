@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("HospitalManagementSystemBackend")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60d8a449a1820df798767da958cd00dc171ad9ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b23f915a84e3e4bb9df1e9b5dc73e5f8dcf3d7b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("HospitalManagementSystemBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HospitalManagementSystemBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
